@@ -195,7 +195,7 @@ streamlit run chat_ui.py
 - [Cohere](https://cohere.com/)
 - [Streamlit](https://streamlit.io/)
 - [mem0](https://github.com/wwt/mem0)
-- Built by [Your Name/Team] for internal IT support.
+- Built by [RUPESH SHIVSHARAN] for internal IT support.
 
 ---
 
